@@ -1,6 +1,6 @@
 ## Oops! I am Vinicius
 <div>
-  <p><p/>
+  <p>Always studying and learning<p/>
 </div>
   
 <div>
