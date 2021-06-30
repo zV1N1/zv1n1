@@ -1,6 +1,6 @@
 ## Oops! I am Vinicius
 <div>
-    <img align="left" src="https://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif?1479080836" alt="eevee" width="50px" heigth="20px" >
+    <img align="left" src="https://emojis.slackmojis.com/emojis/images/1469202036/674/valor.gif?1469202036" alt="eevee" width="50px" heigth="20px" >
 </div>
 
 <p>- Student of system analysis and development, and passionate about stories.</p>
