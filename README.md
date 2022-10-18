@@ -1,6 +1,6 @@
 ## Oops! I am Vinicius
 
-<p>- Espero que você desafie as probabilidades e realmente conquiste seu sonho</p>
+<p>- Espero que você desafie as probabilidades e realmente conquiste seu sonho 💙</p>
 
 ---
 
