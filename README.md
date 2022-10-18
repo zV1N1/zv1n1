@@ -1,6 +1,6 @@
 ## Oops! I am Vinicius
 
-<p>- Student of system analysis and development, and passionate about stories 🙏</p>
+<p>- Espero que você desafie as probabilidades e realmente conquiste seu sonho</p>
 
 ---
 
